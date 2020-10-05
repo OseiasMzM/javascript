@@ -1,0 +1,52 @@
+body {
+    background-color: #181818;
+    width: 500px;
+    height: 500px;
+    color: #fff;
+    font-size: 18px;
+
+}
+div {
+    background-color: #232323;
+    padding: 25px;
+    border-radius: 15px;
+    justify-content: center;
+}
+.Titulo {
+    font-size: 24px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: #291DD0;
+}
+ul {
+    padding: 5px;
+    color: #cdcdcd;
+    align-items: center;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+ul li {
+    color: #ff0;
+}
+ul li a {
+    color: #ea4335;
+    padding: 15px;
+}
+input {
+    color: #291DD0;
+    width: auto;
+    padding: 12px 20px;
+    border-radius: 15px;
+}
+button {
+    width: 100px;
+    height: 25px;
+    color: #000;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: #45eba5;
+    color: #000;
+    border: none;
+    border-radius: 10px;
+}
